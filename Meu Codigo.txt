@@ -1,2 +1,3 @@
 Meu texto para versionamento
 Meu texto para versionamento 2
+Meu texto para versionamento 3
